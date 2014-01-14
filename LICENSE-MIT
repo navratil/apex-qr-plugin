@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 Jan Navratil
+QR Code plugins for Oracle Application Express
+
+Copyright (c) 2014 Jan Navratil    (github.com/navratil/apex-qr-plugin)
+Copyright (c) 2012 davidshimjs     (github.com/davidshimjs/qrcodejs)
+Copyright (c) 2009 Kazuhiko Arase  (http://www.d-project.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
