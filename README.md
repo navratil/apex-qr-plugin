@@ -3,7 +3,7 @@ QR Code plugin
 
 Self contained QR Code item plugin for the Oracle Application Express.
 
-QR codes are generated using a JavaScript directly in the browser. Plugin does NOT depend on any external QR generator service. 
+QR codes are generated using JavaScript - directly in the browser. Plugin does not depend on any external QR generator service. 
 
 Demo: http://apex.oracle.com/pls/apex/f?p=QRDEMO
 
