@@ -3,7 +3,7 @@ QR Code plugin
 
 QR Code item plugin for the Oracle Application Express
 
-Demo: http://apex.oracle.com (coming soon)
+Demo: http://apex.oracle.com/pls/apex/f?p=QRDEMO
 
 More about QR codes: http://en.wikipedia.org/wiki/QR_code
 
@@ -15,7 +15,7 @@ More about QR codes: http://en.wikipedia.org/wiki/QR_code
  
 #Compatibility
 * Developed with APEX 4.2
-* Tested with following browsers: FireFox, Chrome, IE11, Safari (iPhone)
+* Tested with following browsers: Firefox, Chrome, IE11, Safari (iPhone)
 
 #License
 * The MIT License (MIT)
